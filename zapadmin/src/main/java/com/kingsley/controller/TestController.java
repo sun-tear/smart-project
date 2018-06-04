@@ -15,5 +15,9 @@ public class TestController {
 	public String getAllUser(HttpServletRequest request){
 		System.out.println("hello spring");
 		return "{\"success\":\"success\"}";
+		
+		
+		
+		System.out.println(" test smartgit commit ");
 	}
 }
