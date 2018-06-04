@@ -19,6 +19,6 @@ public class TestController {
 		
 		
 		System.out.println(" test smartgit commit ");
-		System.out.println("test commit 2 ");
+		System.out.println("test commit 2 2");
 	}
 }
