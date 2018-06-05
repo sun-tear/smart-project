@@ -27,7 +27,8 @@ public class TestController {
 
 		System.out.println("cosumer1  ����smartgit�ύgithub");
 		System.out.println("cosumer1 1 ����smartgit�ύgithub");
-		
+
+		System.out.println("new conflict1");
 		System.out.println("new conflict2");
 	}
 }
