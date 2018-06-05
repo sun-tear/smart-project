@@ -26,6 +26,7 @@ public class TestController {
 		System.out.println("test commit 4 conflict cosumer2 ");
 
 		System.out.println("cosumer1  测试smartgit提交github");
+		System.out.println("cosumer1 1 测试smartgit提交github");
 		
 	}
 }
