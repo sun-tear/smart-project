@@ -24,6 +24,8 @@ public class TestController {
 		System.out.println("test commit 3 conflict cosumer2 ");
 		
 		System.out.println("test commit 4 conflict cosumer2 ");
+
+		System.out.println("cosumer1  ≤‚ ‘smartgitÃ·Ωªgithub");
 		
 	}
 }
